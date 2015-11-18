@@ -1,8 +1,7 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Traduzidos e diagramados na comunidade [D&D 5E - RPG BRASIL](https://www.facebook.com/groups/764255560309763/)
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+Última atualização em 18/11/2015.
 &mdash;
-this site is [open source]({{ site.source_link }})
-
+Site construído com [Jekyll](http://jekyllrb.com/).
